@@ -7,18 +7,20 @@ Elitech RC4 / RC5 DataReader
 Description
 -----------
 
-This software is a data collecting tool, written in python for Temperature data logger RC-4/RC-5 and Temperature and Humidity data logger RC-4HC.
+This software is a data collecting tool, written in python for Temperature data logger RC-4/RC-5 and
+Temperature and Humidity data logger RC-4HC.
 
 [Elitech RC-4](http://www.elitech.uk.com/temperature_logger/Elitech_UK__Mini_USB_Temperature_Data_logger_URC_4_149.html) /
 [RC-4HC](http://www.elitech.uk.com/temperature_logger/RC_4HC_Temperature_and_Humidity_Data_Logger_150.html) /
 [RC-5](http://www.e-elitech.com/jingChuang3/shouYe.do?operate=doProductDetail&chanpinId=156)
 is a reasonable data logger.
 
-**RC-5+(Note the plus "+" sign).** is not supperted.
+**RC-5+(Note the plus "+" sign).** is not supported.
 
 Enables to use RC-4/RC-5 on Mac, Linux, Windows.
 
-This is an unofficial tool. This tool was made by monitoring and guessing serial communication data. That is why this software is not perfect.
+This is an unofficial tool. This tool was made by monitoring and guessing serial
+communication data. That is why this software is not perfect.
 
 Requirements
 ------------
